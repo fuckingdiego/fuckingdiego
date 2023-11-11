@@ -3,7 +3,7 @@ Merhaba, benim adım Alp, 17 yaşındayım. Yaklaşık üç yıldır kodlama yap
 
 <a href="https://discord.com/users/458252904206172171" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/458252904206172171"></a>
 
-### 📞 Bana ulaş!
+## 📞 Bana ulaş!
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
