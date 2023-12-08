@@ -1,5 +1,5 @@
 <h1 align="center">✨ Merhaba, ben Diego!</h1>
-Merhaba, benim adım Alp, 17 yaşındayım. Yaklaşık üç yıldır kodlama yapıyorum. Hâlâ kendimi geliştirmeye devam ediyorum.
+Merhaba, benim adım Alp, 18 yaşındayım. Yaklaşık üç yıldır kodlama yapıyorum. Hâlâ kendimi geliştirmeye devam ediyorum.
 
 <a href="https://discord.com/users/458252904206172171" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/458252904206172171"></a>
 
